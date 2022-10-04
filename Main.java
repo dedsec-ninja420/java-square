@@ -1,6 +1,6 @@
 // creare classe quadrato che calcola perimetro e area
 
-public class SquareProgram {
+public class Main {
     public static void main(String[] args) {
         Square s1 = new Square(5);
         System.out.println("Il perimetro del quadrato è uguale a " + s1.getPerimeter() + ", la sua area è uguale a "
